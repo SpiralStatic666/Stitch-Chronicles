@@ -102,9 +102,9 @@ body{
 
 #date{
   position: absolute;
-  left: 60%;
-  top: 85%;
+  left: 13%;
+  top: 80%;
 
   color: #f5f5f5;
-  font-size: 1rem;
+  font-size: 0.90rem;
 }
