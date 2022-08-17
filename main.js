@@ -75,17 +75,17 @@ function onWindowResize(){
 function animate() {
   requestAnimationFrame(animate);
 
-  torusKnot.rotation.x += 0.01;
-  torusKnot.rotation.z += 0.01;
-  torusKnot.rotation.y += 0.005;
+  torusKnot.rotation.x += 0.004;
+  torusKnot.rotation.z += 0.004;
+  torusKnot.rotation.y += 0.003;
 
-  torusKnot1.rotation.x += 0.011;
-  torusKnot1.rotation.z += 0.011;
-  torusKnot1.rotation.y += 0.004;
+  torusKnot1.rotation.x += 0.0052;
+  torusKnot1.rotation.z += 0.0052;
+  torusKnot1.rotation.y += 0.0053;
 
-  torusKnot2.rotation.x += 0.013;
-  torusKnot2.rotation.z += 0.013;
-  torusKnot2.rotation.y += 0.006;
+  torusKnot2.rotation.x += 0.0051;
+  torusKnot2.rotation.z += 0.0051;
+  torusKnot2.rotation.y += 0.0049;
 
   controls.update();
   renderer.render(scene, camera);
