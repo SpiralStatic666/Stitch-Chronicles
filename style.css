@@ -99,3 +99,12 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+#date{
+  position: absolute;
+  left: 60%;
+  top: 85%;
+
+  color: #f5f5f5;
+  font-size: 1rem;
+}
