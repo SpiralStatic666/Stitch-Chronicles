@@ -1,2 +1,2 @@
 # Stitch-Chronicles
-A site for my beautiful cat Stitch
+A website for my beautiful cat Stitch
